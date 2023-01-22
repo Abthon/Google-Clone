@@ -2,8 +2,6 @@
 
 A new Flutter Google Clone project - Works on Android, iOS & Web! 
 
-<br/>
-
 ## YouTube
 I have created a tutorial based on this, do check it out on my channel [codeWithAb](https://www.youtube.com/watch?v=0r3tlaQT5RQ) 
 
